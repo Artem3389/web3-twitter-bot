@@ -9,7 +9,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import CommandStart, Command
 
 # 🔐 Встав свій токен тут
-API_TOKEN = "123456789:AA_REPLACE_WITH_YOUR_REAL_TOKEN"
+API_TOKEN = "7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM"
 
 if not API_TOKEN or "REPLACE" in API_TOKEN:
     raise ValueError("❗ Please insert your actual Telegram API_TOKEN in the code")
