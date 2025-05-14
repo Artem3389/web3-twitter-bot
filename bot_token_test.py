@@ -9,7 +9,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import CommandStart, Command
 
 # 🔐 Прямо вставлений токен для тесту
-API_TOKEN = "123456789:AAExampleTokenGoesHere12345678"  # ← ЗАМІНИ на свій токен
+API_TOKEN = "7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM"  # ← ЗАМІНИ на свій токен
 
 if not API_TOKEN or "Example" in API_TOKEN:
     raise ValueError("Replace 'API_TOKEN' with a real Telegram bot token")
