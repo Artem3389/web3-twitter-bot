@@ -1,2 +1,2 @@
-worker: python bot_token_test.py
+worker: python bot.py
 
