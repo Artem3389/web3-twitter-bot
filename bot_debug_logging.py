@@ -9,10 +9,10 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import CommandStart, Command
 
 # 🔐 Встав свій токен тут
-API_TOKEN = "7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM"
+API_TOKEN = "7670472776:AAFKugaQ4aBEM_3lN-9ioQJbRrIT3JI6zaM"
 
 if not API_TOKEN or "REPLACE" in API_TOKEN:
-    raise ValueError("7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM")
+    raise ValueError("7670472776:AAFKugaQ4aBEM_3lN-9ioQJbRrIT3JI6zaM")
 
 projects_data = {
     'linera': [
