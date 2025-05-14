@@ -1,2 +1,2 @@
-worker: python env_debug.py
+worker: python bot.py
 
