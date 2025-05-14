@@ -12,7 +12,7 @@ from aiogram.filters import CommandStart, Command
 API_TOKEN = "7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM"
 
 if not API_TOKEN or "REPLACE" in API_TOKEN:
-    raise ValueError("❗ Please insert your actual Telegram API_TOKEN in the code")
+    raise ValueError("7670472776:AAFKugaQ4aBEM3lN9ioQJbRrIT3JI6zaM")
 
 projects_data = {
     'linera': [
