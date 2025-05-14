@@ -12,7 +12,7 @@ from aiogram.filters import CommandStart, Command
 # 🔐 Заміна токена на змінну середовища
 API_TOKEN = os.getenv("7928598221:AAGL804MBVpa-91hmcXoUgvbljYd7rOFaJU")
 if not API_TOKEN:
-    raise ValueError("API_TOKEN environment variable not set")
+    raise ValueError("7928598221:AAGL804MBVpa-91hmcXoUgvbljYd7rOFaJU")
 
 # 🔗 Дані про проєкти
 projects_data = {
