@@ -10,7 +10,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import CommandStart, Command
 
 # 🔐 Заміна токена на змінну середовища
-API_TOKEN = os.getenv("7928598221:AAGL804MBVpa91hmcXoUgvbljYd7rOFaJU")
+API_TOKEN = os.getenv("7670472776:AAFKugaQ4aBEM_3lN9ioQJbRrIT3JI6zaM")
 if not API_TOKEN:
     raise ValueError("API_TOKEN environment variable not set")
 
