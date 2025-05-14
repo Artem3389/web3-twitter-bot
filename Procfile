@@ -1,2 +1,3 @@
-worker: python bot_debug.py
+worker: python bot.py
+
 
