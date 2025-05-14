@@ -11,7 +11,7 @@ from aiogram.filters import CommandStart, Command
 
 API_TOKEN = os.getenv("7670472776:AAFKugaQ4aBEM_3lN-9ioQJbRrIT3JI6zaM")
 if not API_TOKEN:
-    raise ValueError("API_TOKEN environment variable not set")
+    raise ValueError("7670472776:AAFKugaQ4aBEM_3lN-9ioQJbRrIT3JI6zaM")
 
 projects_data = {
     'linera': [
